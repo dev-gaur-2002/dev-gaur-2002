@@ -7,16 +7,16 @@ Welcome to my GitHub repository! I'm a passionate and experienced Full Stack Dev
 I'm a highly motivated developer who loves tackling complex challenges and delivering innovative solutions. With a solid foundation in both front-end and back-end technologies, I thrive in the ever-evolving world of software development. I have a strong understanding of web development principles and best practices, coupled with a continuous learning mindset that keeps me up to date with the latest trends and technologies.
 
 ## Skills
-- **Front-End**: HTML, CSS, JavaScript, React , Tailwind CSS
-- **Back-End**: Node.js, Express.js
+- **Front-End**: HTML, CSS, JavaScript, Typescript, React, Tailwind CSS, Jest, React testing library
+- **Back-End**: Node.js, Express.js, Django
 - **Database**: MySQL, PostgreSQL, MongoDB
 - **DSA**: C++
+- **Tools**: Github, Postman, GCP, Clickup, Sentry
 
 ## Contacts
 If you'd like to get in touch with me or discuss potential collaborations, feel free to reach out via the following channels:
 
 - Email: dgaur20102002@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dev-gaur-5a7b76206/
+- LinkedIn: https://www.linkedin.com/in/dev-gaur/
 
-## Conclusion
 Thank you for visiting my GitHub repository and taking the time to explore my work. I'm excited about the opportunities that lie ahead and look forward to connecting with fellow developers, collaborators, and potential employers. Let's build something amazing together!
